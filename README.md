@@ -1,0 +1,1 @@
+This will be a basic recipe website containing links, images, and text-based elements made with HTML. The point of this project is to put into action the basic HTML skills that I have learned so far with The Odin Project.
