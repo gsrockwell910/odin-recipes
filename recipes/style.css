@@ -1,0 +1,42 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #fb6e8980;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*h2 {
+    font-weight: lighter;
+    text-align: center;
+}*/
+
+.desc,
+.ing,
+.step {
+    text-align: center;
+}
+
+/*.ing{
+    text-align: center;
+}
+
+.step {
+    text-align: center;
+}*/
+
+p,
+li {
+    color: rgb(255, 255, 255);
+}
